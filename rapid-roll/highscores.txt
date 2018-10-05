@@ -1,0 +1,6 @@
+player1
+1000
+player2
+500
+RATUL
+441
